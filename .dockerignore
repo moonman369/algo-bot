@@ -1,0 +1,8 @@
+.git
+.gitignore
+coverage
+dist
+node_modules
+secrets
+test
+*.log
